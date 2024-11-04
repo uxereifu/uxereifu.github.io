@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxereifu.github.io/JNw/sitemap_index.txt
+Sitemap: https://uxereifu.github.io/PZJ/sitemap_index.txt
+Sitemap: https://uxereifu.github.io/QsP/sitemap_index.txt
+Sitemap: https://uxereifu.github.io/cde/sitemap_index.txt
